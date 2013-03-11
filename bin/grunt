@@ -21,7 +21,7 @@ if ('completion' in options) {
 }
 
 // Search for installed grunt by using node's built-in require() logic.
-var child = spawn(process.execPath, ['-p', '-e', 'require.resolve("grunt")']);
+var child = spawn(process.execPath, ['-p', '-e', 'require.resolve("grunt-dev-exitprocess")']);
 
 var gruntpath = '';
 child.stdout.on('data', function(data) { gruntpath += data; });

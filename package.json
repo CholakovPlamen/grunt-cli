@@ -1,20 +1,20 @@
 {
-  "name": "grunt-cli",
+  "name": "grunt-cli-dev-exitprocess",
   "description": "The grunt command line interface.",
   "version": "0.1.6",
   "author": "Grunt Team",
   "homepage": "http://gruntjs.com/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gruntjs/grunt-cli.git"
+    "url": "git://github.com/DnevnikRu/grunt-cli.git"
   },
   "bugs": {
-    "url": "http://github.com/gruntjs/grunt-cli/issues"
+    "url": "https://github.com/DnevnikRu/grunt-cli/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/gruntjs/grunt-cli/blob/master/LICENSE-MIT"
+      "url": "https://github.com/DnevnikRu/grunt-cli/blob/master/LICENSE-MIT"
     }
   ],
   "bin": {
